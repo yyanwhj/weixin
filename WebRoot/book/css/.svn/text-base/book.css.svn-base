@@ -1,0 +1,126 @@
+@charset "utf-8";
+/*全局参数*/
+body {font-family: 'Open Sans', arial, tahoma, verdana,sans-serif;-webkit-text-size-adjust: none;}
+body,div,ul,li,ol,dl,dt,dd,h1,h2,h3,h4,h5,h6,h7,form,img,p,pre,textarea,blockquote,fieldset {margin:0;padding:0}
+html,body{width: 100%;height: 100%;}
+ul,ol,li{list-style-type:none}
+table{ border-collapse:collapse}
+img {
+	width:100%;
+	border:none;
+	-ms-interpolation-mode:bicubic;/*解决IE7放大失真*/
+	-webkit-backface-visibility: hidden;}
+em{font-style:normal}
+h1,h2,h3,h4,h5,h6,h7 {font-size:100%}
+a{text-decoration:none;}
+a:hover{color:#04be02;}
+.clear{clear:both;display:block;height:0;overflow:hidden;font-size:0;}
+.clearfix:after {clear:both;content:".";display:block;height:0;overflow:hidden;visibility:hidden}
+.clearfix:before {clear:both;content:".";display:block;height:0;overflow:hidden;visibility:hidden}
+.clearfix {display:block;}
+.fl{
+	float:left
+}
+.fr{
+	float:right;
+}
+.container{
+	padding-bottom:40px;
+}
+article{
+	width:100%;
+	text-align:justify;
+	padding-bottom:0.5em;
+	font-size:large;
+	line-height:2em;text-justify:inter-ideograph;
+}
+	
+article div{
+	margin:0 0.9em;
+	font-size:1em;
+	color:#555;
+	line-height:1.5em;
+}
+.title{
+	margin:0;
+	font-size:1.1em;
+	color:#000;
+	padding-top:1em;
+}
+.center{
+	text-align:center;
+}
+.title .time{
+	font-size:0.8em;
+	color:#888;
+	text-align:right;
+	margin:0 0.9em;
+}
+.bold{
+	font-weight:bold;
+}
+.indent{
+	text-indent:2em;
+}
+.indent a,.indent a:hover,.indent a:visited{
+	color:#04be02;
+}
+.more,.date{
+	text-align:center;
+	width:100%;
+}
+.date{
+	position:fixed;
+	bottom:0;
+	left:0;
+}
+
+section{
+	margin:0 0.9em 1em 0.9em;
+}
+section .part{
+	color:#222;
+	font-weight:bold;
+	margin:0;
+}
+section .indent{
+	margin:0;
+}
+.img img{
+	width:100%;
+}
+
+.fixed{
+	position:fixed;
+	bottom:0.5em;
+	right:0.5em;
+	width:16%;
+}
+.fixed a,.more a,.date a{
+	display:block;
+}
+.fixed a img{
+	width:100%;
+}
+.more a,.date a{
+	font-size:1.2em;
+	background:#fff;
+	padding:0.5em 0;
+	color:#04be02;
+}
+.container .more a{
+	background:none;
+}
+.container .date a{
+	background:#04be02;
+	color:#fff;
+}
+.container .date img{
+	width:20px;
+	height:20px;
+	margin-bottom:-5px;
+}
+
+.foot-tab{display:flex;display:flexbox;}
+.foot-tab a{flex-grow:1;width:50%;}
+.foot-tab a:nth-child(1){border-right:1px solid #fff;}

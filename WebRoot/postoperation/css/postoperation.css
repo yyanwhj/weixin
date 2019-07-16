@@ -1,0 +1,146 @@
+@charset "utf-8";
+/*全局参数*/
+body {font-family: 'Open Sans', arial, tahoma, verdana,sans-serif;-webkit-text-size-adjust: none;}
+body,div,ul,li,ol,dl,dt,dd,h1,h2,h3,h4,h5,h6,h7,form,img,p,pre,textarea,blockquote,fieldset {margin:0;padding:0}
+html,body{width: 100%;height: 100%;}
+ul,ol,li{list-style-type:none}
+table{ border-collapse:collapse}
+img {border:none;
+	-ms-interpolation-mode:bicubic;/*解决IE7放大失真*/
+	-webkit-backface-visibility: hidden;}
+em{font-style:normal}
+h1,h2,h3,h4,h5,h6,h7 {font-size:100%}
+a,a:visited {text-decoration:none;color:#000}
+a:hover{color:#1b7daa}
+a:active{color:#000;}
+.clear{clear:both;display:block;height:0;overflow:hidden;font-size:0;}
+.clearfix:after {clear:both;content:".";display:block;height:0;overflow:hidden;visibility:hidden}
+.clearfix {display:block;}
+
+article,.btn{
+	width:100%;
+	text-align:justify;
+	font-size:large;
+	line-height:2em;text-justify:inter-ideograph;
+}
+article{
+	padding-bottom:2em;
+}
+.btn{
+	padding-bottom:3em;
+	text-align:center;
+}
+article div{
+	margin:0 1em;
+}
+.title{
+	font-size:1.1em;
+	font-weight:bold;
+	text-align:center;
+	padding:1em 0;
+	border-bottom:1px dashed #04be02;
+}
+.paragraph{
+	/*text-indent:2em;*/
+}
+.part{
+	font-size:1.05em;
+	font-weight:bold;
+	padding:0.5em 0;
+}
+.strong{
+	font-weight:bold;
+}
+.img{
+	padding:1em 0;
+	text-align:center;
+}
+.img img{
+	width:60%;
+}
+
+.indent{
+	text-indent:2em;
+}
+
+.catalog{
+	margin:0;
+}
+.catalog a{
+	padding:3% 5% 3% 15%;
+	display:block;
+	background:url(../images/catalog.png) no-repeat 6% center;
+	background-size:3% auto;
+	position:relative;
+	border-bottom:1px solid #cbcbcb;
+}
+
+
+.u-btnBox{
+	background:#04be02;
+	position:fixed;
+	left:0;
+	bottom:0;
+	width:100%;
+}
+.u-btnBox a{
+	display:inline-block;
+	padding:0.7em 0;
+	color:#fff;
+	text-align:center;
+}
+.u-btnBox .btns{
+	width:70%;
+	float:left;
+}
+.u-btnBox .btns a{
+	width:32%;
+}
+.u-btnBox .date{
+	width:30%;
+	float:left;
+}
+.u-btnBox .date a{
+	width:100%;
+	display:inline-block;
+}
+.date img{
+	width:20px;
+	height:20px;
+	margin-bottom:-5px;
+	float:none;
+}
+/* .btn .music{
+	background:#fff;
+	padding-top:0.8em;
+}
+.btn .music audio{
+	margin:0 auto;
+	z-index:9999;
+}
+
+.btn{
+	width:100%;
+	text-align:center;
+	position:fixed;
+	left:0;
+	bottom:0;
+	background:#04be02;
+}
+.btn:after{
+	clear:both;
+	display:block;
+	content:"";
+}
+.btn a{
+	display:block;
+	width:33.333333333333333%;
+	float:left;
+	color:#fff;
+	font-size:0.8em;
+	background:#04be02;
+	height:100%;
+}
+.half a{
+	width:30%;
+} */

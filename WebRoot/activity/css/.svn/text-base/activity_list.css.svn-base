@@ -1,0 +1,77 @@
+section{
+	border-bottom:1px solid #cbcbcb;
+}
+section a{
+	padding:3% 5%;
+	display:block;
+	background:url(../images/open.png) no-repeat 96% 70%;
+	background-size:3% auto;
+	position:relative;
+}
+section a .list{
+	width:93%;
+}
+section .status{
+	position:absolute;
+	right:5%;
+	top:8%;
+	border-radius:5px;
+	padding:3px 5px;
+}
+section .status_01{
+	color:#f44d61;
+	border:1px solid #f44d61;
+}
+section .status_02{
+	color:#969696;
+	border:1px solid #969696;
+}
+section .status_03{
+	color:#3099c9;
+	border:1px solid #3099c9;
+}
+section .status_04{
+	color:#36c681;
+	border:1px solid #36c681;
+}
+
+
+section .title{
+	font-size:1.3em;
+	line-height:1.5em;
+	margin-bottom:2%;
+	color:#000;
+}
+section .date,section .type{
+	color:#04be02;
+	float:left;
+	line-height:1.5em;
+	width:50%;
+}
+section .content{
+	color:#777;
+	text-align:justify;
+}
+
+section .type img{
+	width:12%;
+	vertical-align:middle;
+	margin-right:6px;
+}
+#loadMore a,#noMore span{
+	width:100%;
+	display:inline-block;
+	text-align:center;
+	background:#04be02;
+	color:#fff;
+	padding:0.5em 0;
+}
+
+
+
+
+
+
+
+
+

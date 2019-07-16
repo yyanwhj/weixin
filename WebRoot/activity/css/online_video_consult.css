@@ -1,0 +1,24 @@
+body{
+	background-color: #152f4a;
+}
+.content{
+	position: relative;
+}
+.content img{
+	width: 100%;
+}
+.content input[type=button]{
+	width: 8rem;
+	height: 1.6rem;
+	font: 0.8rem/1.6rem "微软雅黑";
+	color: #333;
+	letter-spacing:2px;
+	text-align: center;
+	border-radius: 0.8rem;
+	position: absolute;
+	left: 50%;
+	bottom: 5%;
+	margin-left: -4rem;
+	background-color: #feb729;
+	border:none;
+}

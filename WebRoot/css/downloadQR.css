@@ -1,0 +1,91 @@
+body,p{
+				margin: 0;
+			}
+			
+			a {
+				text-decoration: none;
+				color: #000;
+			}
+			
+			html,
+			body {
+				height: 100%;
+				overflow: hidden;
+			}
+			
+			body {
+				overflow: auto;
+				font-family: "微软雅黑";
+			}
+			
+			header {
+				height: 7.5rem;
+				padding-left: 1.5rem;
+				padding-top: 1.2rem;
+				background-color: #1eadd9;
+				overflow: hidden;
+			}
+			
+			header .img {
+				width: 5.65rem;
+				height: 5.65rem;
+				margin-right: 1.5rem;
+				float: left;
+			}
+			
+			header .download {
+				float: left;
+				padding-top: .8rem;
+			}
+			
+			header .download .btn {
+				width: 6.5rem;
+				height: 1.5rem;
+				line-height: 1.5rem;
+				text-align: center;
+				background-color: #FFFFFF;
+				border-radius: 0.75rem;
+				-webkit-border-radius: .75rem;
+				font-size: .6rem;
+				color: #1eadd9;
+				display: block;
+				margin-bottom: .8rem;
+			}
+			
+			header .download .btn .icon {
+				width: 1rem;
+				height: 1rem;
+				background: url(../images/iPhone.png) no-repeat left top;
+				background-size: 100%;
+				display: inline-block;
+				margin-top: .3rem;
+				vertical-align: top;
+			}
+			
+			.download .btn .icon.android {
+				background-image: url(../images/android.png);
+			}
+			
+			.content{
+				font-size: .6rem;
+				line-height: 1.2rem;
+				color: #1c1c1c;
+				padding-top:2rem;
+			}
+			.content .part{
+				margin-bottom: 1rem;
+			}
+			.content .part span{
+				width: .4rem;
+				height: .4rem;
+				border-radius: 50%;
+				-webkit-border-radius: 50%;
+				background-color: #1eadd9;
+				display: inline-block;
+				margin:.4rem .3rem 0 .9rem;
+				vertical-align: top;
+			}
+			.content .part .text{
+				width: 13rem;
+				display: inline-block;
+			}

@@ -1,0 +1,164 @@
+section{
+	padding:0 5% 5% 5%;
+/*	position:fixed;
+	left:0;
+	top:0;*/
+	width:90%;
+	position:relative;
+	background:#e2f9ff;
+}
+section.first{
+	background:#fff;
+}
+section p{
+	font-size:1em;
+	color:#a1a1a1;
+	line-height:3em;
+}
+section .status{
+	position:absolute;
+	right:5%;
+	top:5%;
+	border-radius:5px;
+	padding:3px 5px;
+}
+section .status_01{
+	color:#f44d61;
+	border:1px solid #f44d61;
+}
+section .status_02{
+	color:#969696;
+	border:1px solid #969696;
+}
+section .status_03{
+	color:#3099c9;
+	border:1px solid #3099c9;
+}
+section .status_04{
+	color:#36c681;
+	border:1px solid #36c681;
+}
+
+
+
+section .doc_img{
+	float:left;
+	width:20%;
+}
+section .doc_img img{
+	width:100%;
+	border-radius:50%;
+	vertical-align:middle;
+}
+section .theme{
+	border-bottom:1px solid #ccc;
+	font-size:1.2em;
+	line-height:1.7em;
+}
+.PlayMode{
+	border-bottom:1px solid #ccc;
+	margin-bottom:1em;
+	line-height:2em;
+	padding-left:1em
+}
+section .info{
+	float:left;
+	width:75%;
+	padding-bottom: 4%;
+}
+section .info .doc_name,section .info .doc_hosp,section .info .doc_adept{
+	padding-left:10%;
+	line-height:1.5em;
+	margin:3% 0 0;
+}
+section .info .doc_name span{
+	font-size:1.3em;
+}
+section .info .doc_name .AttendingPhysician{
+	font-size:.9em;
+	color:#9c9a9a;
+}
+section .doc_hosp,section .doc_adept{
+	color:#515151;
+}
+section .doc_adept{
+	height:3em;
+	overflow: hidden;
+	font-size:.9em;
+	color:#9c9a9a;
+	
+}
+section  i{
+	width:2em;
+	height:2em;
+	
+	display:block;
+	float:right;
+}
+
+section .info .topBg{
+	background:url(../images/triangle.png) no-repeat;
+	background-size: 100%;
+}
+section .info .bottomBg{
+	background:url(../images/triangle2.png) no-repeat;
+	background-size: 100%;
+}
+section .btn{
+	text-align:center;
+	width:100%;
+}
+section .btn a{
+	/* width:60%; */
+	border:none;
+	color:#fff;
+	/* border-radius:1em; */
+	line-height:2em;
+	display:block;
+	margin:0 auto;
+}
+section .btn a.apply{
+	/* background:#04be02; */
+}
+section .btn a.finish{
+	background:#d9d9d9;
+}
+
+section .cancel{
+	text-align:center;
+	width:100%;
+}
+section .cancel a{
+	width:30%;
+	border:none;
+	color:#fff;
+	border-radius:1em;
+/*	font-size:1vw;*/
+	line-height:1.7em;
+	display:block;
+	margin:0 0 0 70%;
+	background:#04be02;
+}
+
+
+article{
+	width:100%;
+}
+article .title{
+	font-size:1.3em;
+	line-height:2em;
+	text-align:center;
+}
+article .date{
+	color:#04be02;
+	line-height:2em;
+	text-align:center;
+}
+article .art_cont{
+	line-height:1.5em;
+	color:#515151;
+	text-align:justify;
+}
+article img{
+	max-width:100%;
+}

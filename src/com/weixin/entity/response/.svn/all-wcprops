@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/HeartExpert/!svn/ver/41125/Code/Server/ApiJava/pasm_weixin/src/com/weixin/entity/response
+END
+CustomServiceTextMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/HeartExpert/!svn/ver/33846/Code/Server/ApiJava/pasm_weixin/src/com/weixin/entity/response/CustomServiceTextMsg.java
+END
+BaseCustomServiceMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/HeartExpert/!svn/ver/33846/Code/Server/ApiJava/pasm_weixin/src/com/weixin/entity/response/BaseCustomServiceMsg.java
+END
+Image.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/HeartExpert/!svn/ver/41125/Code/Server/ApiJava/pasm_weixin/src/com/weixin/entity/response/Image.java
+END
+TextMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/HeartExpert/!svn/ver/28331/Code/Server/ApiJava/pasm_weixin/src/com/weixin/entity/response/TextMessage.java
+END
+PictureMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/HeartExpert/!svn/ver/41125/Code/Server/ApiJava/pasm_weixin/src/com/weixin/entity/response/PictureMessage.java
+END
+BaseMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/HeartExpert/!svn/ver/28331/Code/Server/ApiJava/pasm_weixin/src/com/weixin/entity/response/BaseMessage.java
+END
+Article.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/HeartExpert/!svn/ver/28331/Code/Server/ApiJava/pasm_weixin/src/com/weixin/entity/response/Article.java
+END
+TransInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/HeartExpert/!svn/ver/33846/Code/Server/ApiJava/pasm_weixin/src/com/weixin/entity/response/TransInfo.java
+END
+Music.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/HeartExpert/!svn/ver/28331/Code/Server/ApiJava/pasm_weixin/src/com/weixin/entity/response/Music.java
+END
+NewsMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/HeartExpert/!svn/ver/28331/Code/Server/ApiJava/pasm_weixin/src/com/weixin/entity/response/NewsMessage.java
+END
+TextMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/HeartExpert/!svn/ver/33846/Code/Server/ApiJava/pasm_weixin/src/com/weixin/entity/response/TextMsg.java
+END
+CustomServiceMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/HeartExpert/!svn/ver/33846/Code/Server/ApiJava/pasm_weixin/src/com/weixin/entity/response/CustomServiceMessage.java
+END
+MusicMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/HeartExpert/!svn/ver/28331/Code/Server/ApiJava/pasm_weixin/src/com/weixin/entity/response/MusicMessage.java
+END

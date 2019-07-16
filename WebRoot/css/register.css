@@ -1,0 +1,98 @@
+/* html{
+	overflow: hidden;
+} */
+div.logoBox{
+	margin-top: 15px;
+	margin-bottom: 20px;
+	text-align: center;	
+}
+div.logoBox img{
+	width: 70px;
+	height: 70px;
+	
+}
+div.logohead{
+	height: 30px;
+	line-height: 30px;
+	color: #04be02;
+	font-size: 18px;
+}
+
+button.weui_cell_getVcode{
+	width: 124px;
+	background: #04be01;
+	color: #fff;
+	font-size: 16px;
+	line-height: 44px;
+	text-align: center;
+	margin:-10px -10px -10px 10px;
+	border: 0;
+}
+div.weui_cells_checkbox:before,div.weui_cells_checkbox:after{
+	border:0;
+}
+label.weui_check_label{
+	padding: 10px 30px;
+}
+
+div.weui_btn_link{
+	line-height: 1;	
+	margin: 40px auto;
+	text-align: center;	
+	font-size: 18px;
+	color: #444;	
+}
+div.weui_btn_link span{
+	border-bottom: 1px solid #444;
+}
+
+.page{
+	background: #fff;	
+	overflow: hidden;
+	position: fixed;
+	height:100%;
+	width:100%;
+	top:0;
+	right:0;
+	bottom: 0;
+	left: 0;
+	z-index: 10;
+	display: none;	
+}
+
+/* 验证码弹窗 */
+#dialog3 iframe{
+	border:none;
+}
+#dialog3 .VerificationCodeInp{
+	width:80%;
+	height:40px;
+	border:1px solid #ccc;
+	margin-bottom:5px;
+	font-size:16px;
+}
+
+#dialog3 .VerificationCodeBox{
+	width:80%;
+	margin:0 auto;
+}
+#dialog3 .VerificationCodeBox iframe{
+	float:left;
+}
+#dialog3 .VerificationCodeBox span{
+	line-height:30px;
+	text-align:center ;
+	
+}
+#dialog3 .prompting{
+	width:80%;
+	margin:0 auto;
+	text-align:left;
+	color:red;
+	font-size: 14px;
+}
+.clearfix:after{
+	content: "";
+	display: block;
+	clear: both;
+}

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/HeartExpert/!svn/ver/41125/Code/Server/ApiJava/pasm_weixin/src/com/weixin/entity
+END
+TicketScene.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/HeartExpert/!svn/ver/28331/Code/Server/ApiJava/pasm_weixin/src/com/weixin/entity/TicketScene.java
+END
+Menu.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/HeartExpert/!svn/ver/28331/Code/Server/ApiJava/pasm_weixin/src/com/weixin/entity/Menu.java
+END
+CommonButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/HeartExpert/!svn/ver/28331/Code/Server/ApiJava/pasm_weixin/src/com/weixin/entity/CommonButton.java
+END
+QRSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/HeartExpert/!svn/ver/29867/Code/Server/ApiJava/pasm_weixin/src/com/weixin/entity/QRSource.java
+END
+Ticket.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/HeartExpert/!svn/ver/28331/Code/Server/ApiJava/pasm_weixin/src/com/weixin/entity/Ticket.java
+END
+TicketInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/HeartExpert/!svn/ver/28331/Code/Server/ApiJava/pasm_weixin/src/com/weixin/entity/TicketInfo.java
+END
+AccessToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/HeartExpert/!svn/ver/28331/Code/Server/ApiJava/pasm_weixin/src/com/weixin/entity/AccessToken.java
+END
+ComplexButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/HeartExpert/!svn/ver/28331/Code/Server/ApiJava/pasm_weixin/src/com/weixin/entity/ComplexButton.java
+END
+Button.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/HeartExpert/!svn/ver/28331/Code/Server/ApiJava/pasm_weixin/src/com/weixin/entity/Button.java
+END

@@ -1,0 +1,42 @@
+p{
+    padding:3em 0 1em 0;
+    text-align:center;
+    font-size:20px;
+}
+section.download_code{
+    text-align:center;
+}
+section.download_code img{
+    width:60%;
+}
+.btn{
+    margin:1em;
+    text-align:center;
+}
+.btn a{
+    background:#2abbde;
+    color:#fff;
+    width:80%;
+    display:block;
+    line-height:3em;
+    border-radius:2em;
+    text-align:center;
+    margin:1em 10% 0 10%;
+    font-size:16px;
+}
+.btn a img{
+    vertical-align:middle;
+}
+.wenan{
+	padding:20px 12px 0px 12px;
+	text-align: justify;
+}
+.erweima{
+	margin-top:20px;
+	padding-bottom:50px;
+}
+
+
+
+
+

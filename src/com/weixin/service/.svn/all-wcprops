@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/HeartExpert/!svn/ver/41808/Code/Server/ApiJava/pasm_weixin/src/com/weixin/service
+END
+ICoreService.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/HeartExpert/!svn/ver/28331/Code/Server/ApiJava/pasm_weixin/src/com/weixin/service/ICoreService.java
+END
+IActivityService.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/HeartExpert/!svn/ver/28331/Code/Server/ApiJava/pasm_weixin/src/com/weixin/service/IActivityService.java
+END
+UserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/HeartExpert/!svn/ver/28331/Code/Server/ApiJava/pasm_weixin/src/com/weixin/service/UserService.java
+END
+IButtonService.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/HeartExpert/!svn/ver/28331/Code/Server/ApiJava/pasm_weixin/src/com/weixin/service/IButtonService.java
+END
+IMyX509TrustService.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/HeartExpert/!svn/ver/28331/Code/Server/ApiJava/pasm_weixin/src/com/weixin/service/IMyX509TrustService.java
+END

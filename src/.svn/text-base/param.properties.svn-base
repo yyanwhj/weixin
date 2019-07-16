@@ -1,0 +1,19 @@
+api_host=http\://127.0.0.1\:8080/api/
+token=7M8PF8lsd7lw3Fcuikt6wP6k
+EncodingAESKey=Qwa9tNnAU9kHnuFDrOkVP7qPiKhRx20SjupsnGrhLiL
+#AppID=wx5e4d4602d7fe205a
+#AppSecret=9d88deb755ecd0e81154de530b9ef3ba
+MicroSignal=ixinzang_v
+WeiXinServerURL=https\://testweixin.ixinzang.com/
+hst_app_key_4=lp_pasm_app
+hst_app_secret_4=b1f0338f0ecb4106ae715f343ab7018a
+hstPageURL=http\://mtest.hstyf360.com/
+ixinzangPageURL=http\://127.0.0.1\:8888/ixinzang/
+img_host=http\://img.t.ixinzang.com/
+# localhost config
+#AppID=wx8384c433626f8875
+#AppSecret=8f507de5d7886e5feb48b2a556f578ee
+AppID=wx51d7280e5ba99f4c
+AppSecret=e0b2fae4f76540a2cbf86e308fd4c1d9
+
+Signature=LepuApp

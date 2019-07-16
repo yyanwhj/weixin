@@ -1,0 +1,43 @@
+section.logo{
+	text-align:center;
+	padding-top:10%;
+}
+section.logo img{
+	width:60%;
+}
+article{
+	width:100%;
+	/*text-align:justify;*/
+	font-size:large;
+	line-height:2em;text-justify:inter-ideograph;
+	padding-bottom:2em;
+}
+article div{
+	margin:0 1em;
+}
+article .paragraph{
+	text-indent:2em;
+}
+article .part{
+	font-size:1.05em;
+	font-weight:bold;
+	padding:0.5em 0;
+}
+article .paragraph a{
+	color:#1b7daa;
+}
+
+
+.btn{
+	margin:0 1em;
+}
+.btn a{
+	background:#2abbde;
+	color:#fff;
+	width:100%;
+	display:block;
+	line-height:3em;
+	border-radius:2em;
+	text-align:center;
+	margin:1em 0 0 0;
+}

@@ -1,0 +1,62 @@
+body{
+    margin:0 4.5%;
+}
+section{
+    border-bottom:1px solid #ddd;
+}
+@media (max-width:768px) {
+    section .img{
+        width:35%;
+    }
+    section .desc{
+        width:65%;
+    } 
+}
+@media (min-width:769px) {
+    section .img{
+        width:13%;
+    }
+    section .desc{
+        width:87%;
+    } 
+}
+section a{
+    display:block;
+    padding:1em 0;
+}
+section .img,section .desc{
+    float:left;
+    line-height:1.5em;
+}
+section .img img{
+    width:80%;
+    border-radius:8px;
+}
+section .desc .title{
+    padding-top:0.5em;
+    color:#20201e;
+    font-size:18px;
+}
+section .desc .cont{
+    font-size:14px;
+    color:#515151;
+}
+
+.more{
+    background:#e5f5fd;
+}
+.more a{
+    font-size:1.2em;
+    color:#04be02;
+    display:block;
+    text-align:center; 
+    line-height:2em;
+}
+
+.more span{
+    font-size:1.2em;
+    color:#aaa;
+    display:block;
+    text-align:center; 
+    line-height:2em;
+}

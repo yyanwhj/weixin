@@ -1,0 +1,14 @@
+/**************ecg_monitoring_service****************/
+.ecg-wrapper{max-width:640px;}
+.ecg-wrapper img{width:100%;display:block;}
+.ecg-fixed{position:fixed;left:0;bottom:0;width:100%;height:50px;line-height:50px;background:#fff;}
+.ecg-fixed p{float:left;width:56%;font-size:18px;color:#FE742F;text-align:right;}
+.ecg-fixed button{float:right;display:block;width:40%;height:50px;font-size:18px;background-color:#7ED321;border:none;}
+
+/**************ecg_pay_success****************/
+.ecg-success{box-sizing:border-box;padding:8%;text-align:center;}
+.ecg-success h3{margin-top:30%;font-size:24px;font-weight:normal;}
+.ecg-success p{margin:8% 0 3%;font-size:13px;color:#666;}
+.ecg-success input,.ecg-success button{display:block;height:40px;width:100%;outline:none;}
+.ecg-success input{border:1px solid #eaeaea;text-indent:10px;}
+.ecg-success button{margin-top:40%;font-size:16px;background-color:#7ED321;border:none;color:#fff;}

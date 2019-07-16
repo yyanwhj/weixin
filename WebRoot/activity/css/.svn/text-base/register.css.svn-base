@@ -1,0 +1,56 @@
+body{
+	font-size:normal;
+	background:#00b6cc;
+}
+.logo{
+	text-align:center;
+	padding:2em 0 1em 0;
+}
+section.logo img{
+	width:40%;
+}
+section.form{
+	width:100%;
+}
+.user,.password{
+	margin:5% 10%;
+	background:#fff;
+	padding:0.5em;
+	border-radius:6px;
+}
+.user img,.password img{
+	width:1.5em;
+	vertical-align:middle;
+	float:Left;
+}
+.user .text,.password .text{
+	margin-left:2.5em;
+}
+.user input,.password input{
+	border:none;
+	font-size:1.1em;
+	width:90%;
+	margin:0;padding:0;
+}
+.submit,.link{
+	text-align:center;
+}
+.submit{
+	margin:3em 0 1em 0;
+}
+.submit a{
+	background:#fff;
+	color:#00b6cc;
+	width:80%;
+	margin:0 10%;
+	padding:3% 0;
+	display:block;
+	border-radius:6px;
+}
+.link{
+	margin-top:0;
+	margin-bottom:20%;
+}
+.link a{
+	color:#fff;
+}

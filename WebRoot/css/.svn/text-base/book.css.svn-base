@@ -1,0 +1,8 @@
+body{
+	font-size: 14px;
+	color: #5a5a5a;
+	margin: 20px 15px;	
+}
+.paragraph{
+	line-height: 30px;
+}

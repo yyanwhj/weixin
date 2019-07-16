@@ -1,0 +1,26 @@
+section{
+	border-bottom:1px solid #cfcfcf;
+	padding:0 1em;
+}
+.caption{
+	padding:1em 0;
+	font-size:1.1em;
+	color:#111;
+	line-height:2em;
+}
+.caption img{
+	margin-right:0.5em;
+	float:right;
+	height:1em;
+}
+.content{
+	font-size:1em;
+	padding:0.5em 0;
+	line-height:2em;
+	display:none;
+	color:#555;
+}
+.caption:hover{
+	background:none;
+	border:none;
+}

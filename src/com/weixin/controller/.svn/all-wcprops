@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/HeartExpert/!svn/ver/41806/Code/Server/ApiJava/pasm_weixin/src/com/weixin/controller
+END
+BaseController.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/HeartExpert/!svn/ver/28331/Code/Server/ApiJava/pasm_weixin/src/com/weixin/controller/BaseController.java
+END
+SpecialistController.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/HeartExpert/!svn/ver/41973/Code/Server/ApiJava/pasm_weixin/src/com/weixin/controller/SpecialistController.java
+END
+MenuController.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/HeartExpert/!svn/ver/28331/Code/Server/ApiJava/pasm_weixin/src/com/weixin/controller/MenuController.java
+END
+QRCodeController.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/HeartExpert/!svn/ver/32365/Code/Server/ApiJava/pasm_weixin/src/com/weixin/controller/QRCodeController.java
+END
+PasmPayController.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/HeartExpert/!svn/ver/41782/Code/Server/ApiJava/pasm_weixin/src/com/weixin/controller/PasmPayController.java
+END
+UserController.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/HeartExpert/!svn/ver/40898/Code/Server/ApiJava/pasm_weixin/src/com/weixin/controller/UserController.java
+END
+HSTController.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/HeartExpert/!svn/ver/39841/Code/Server/ApiJava/pasm_weixin/src/com/weixin/controller/HSTController.java
+END
+ThirdController.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/HeartExpert/!svn/ver/35741/Code/Server/ApiJava/pasm_weixin/src/com/weixin/controller/ThirdController.java
+END
+ArticleController.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/HeartExpert/!svn/ver/41736/Code/Server/ApiJava/pasm_weixin/src/com/weixin/controller/ArticleController.java
+END
+ServiceController.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/HeartExpert/!svn/ver/41766/Code/Server/ApiJava/pasm_weixin/src/com/weixin/controller/ServiceController.java
+END

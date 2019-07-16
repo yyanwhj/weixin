@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+body {font-family: 'Open Sans', arial, tahoma, verdana,sans-serif;-webkit-text-size-adjust: none;}
+body,div,ul,li,ol,dl,dt,dd,h1,h2,h3,h4,h5,h6,h7,form,img,p,pre,textarea,blockquote,fieldset {margin:0;padding:0}
+html{width: 100%;height: 100%;}
+ul,ol,li{list-style-type:none}
+table{ border-collapse:collapse}
+img {border:none;
+    -ms-interpolation-mode:bicubic;/*解决IE7放大失真*/
+    -webkit-backface-visibility: hidden;
+    heigth:auto;
+}
+em{font-style:normal}
+h1,h2,h3,h4,h5,h6,h7 {font-size:100%}
+a,a:visited {text-decoration:none;color:#000}
+a:active{color:#000;}
+input,button{outline:none;}
+.clear{clear:both;display:block;height:0;overflow:hidden;font-size:0;}
+.clearfix:after {clear:both;content:".";display:block;height:0;overflow:hidden;visibility:hidden}
+.clearfix {display:block;}
+
+

@@ -1,0 +1,33 @@
+body{
+    margin:0 4.5%;
+}
+.container{
+	padding-bottom:40px;
+}
+.title{
+    padding-top:0.5em;
+    color:#20201e;
+    font-size:22px;
+    text-align:center;
+}
+.date{
+    color:#257589;
+    text-align:center;
+    position:fixed;
+    left:0;
+    bottom:0;
+    width:100%;
+} 
+.date a{
+	background:#04be02;
+	color:#fff;
+	display:block;
+	padding:0.5em 0;
+	font-size:1.2em;
+}
+.date img{
+	width:20px;
+	height:20px;
+	margin-bottom:-5px;
+	float:none;
+}
