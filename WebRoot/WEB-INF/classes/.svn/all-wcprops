@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/HeartExpert/!svn/ver/41808/Code/Server/ApiJava/pasm_weixin/src
+END
+param.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/HeartExpert/!svn/ver/42057/Code/Server/ApiJava/pasm_weixin/src/param.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/HeartExpert/!svn/ver/28331/Code/Server/ApiJava/pasm_weixin/src/log4j.properties
+END
+redis.conf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/HeartExpert/!svn/ver/40185/Code/Server/ApiJava/pasm_weixin/src/redis.conf
+END
